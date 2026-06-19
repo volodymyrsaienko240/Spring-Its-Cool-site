@@ -4,6 +4,6 @@
 
 ## All Seasons of Year:
 
-### https://vladimirsaenko.github.io/All-Seasons-of-Year-site/
+### https://volodymyrsaienko240.github.io/All-Seasons-of-Year-site/
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/All%20Seasons%20Year%20site/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-17/All%20Seasons%20Year%20site/index.html
